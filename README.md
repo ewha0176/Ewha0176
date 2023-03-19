@@ -1,5 +1,5 @@
 <div align= " center ">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdb7b7,100:899fdb&height=300&section=header&text=100DanO&fontSize=70&fontColor=EEEEEE&fontAlignY=100">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdb7b7,100:899fdb&height=300&section=header&text=100DanO&fontSize=70&fontColor=EEEEEE&fontAlignY=50">
  <h2>STACKS</h2>
 
  ####   🔓️ Main Stacks 🔓️
