@@ -1,5 +1,5 @@
-<div align=center><h1>📚 STACKS</h1></div>
 <img src = "![header]https://capsule-render.vercel.app/api?type=waving&color=0:fdb7b7,100:899fdb8&height=300&section=header&text=100DanO&fontSize=90">
+<div align=center><h1>📚 STACKS</h1></div>
 
  ###   🔓️ Main Stacks 🔓️
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
