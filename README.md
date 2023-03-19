@@ -19,5 +19,7 @@
 <img src = "https://img.shields.io/badge/VSC-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/> <img src = "https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Intellij IDEA-black?style=or-the-badge&logo=Intellij IDEA&logoColor=white"/>
 
+ #### ✔WakaTime✔
+ <figure><embed src="https://wakatime.com/share/@Dan_O/06afbcc8-da78-4bfe-a126-b855a1076028.svg"></embed></figure>
 
 </div>
