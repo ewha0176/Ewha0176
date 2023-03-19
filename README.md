@@ -20,6 +20,6 @@
 <img src="https://img.shields.io/badge/Intellij IDEA-black?style=or-the-badge&logo=Intellij IDEA&logoColor=white"/>
 <br>
 
-#### ✔ WakaTime ✔
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Dan_O/e42cb8d8-c7dd-4b25-9281-68a5927e0f92.png" /></a>
+#### ✔ Most Used Language ✔
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Ewha0176&layout=compact" /></a>
 </div>
