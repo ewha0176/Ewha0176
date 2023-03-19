@@ -20,6 +20,6 @@
 <img src="https://img.shields.io/badge/Intellij IDEA-black?style=or-the-badge&logo=Intellij IDEA&logoColor=white"/>
 
  #### ✔WakaTime✔
- <figure><embed src="https://wakatime.com/share/@Dan_O/06afbcc8-da78-4bfe-a126-b855a1076028.svg"></embed></figure>
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Dan_O/309b922e-4bf2-4b4d-8856-f7fa320570b2.png" /></a>
 
 </div>
