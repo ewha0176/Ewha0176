@@ -16,8 +16,8 @@
 <br>
 
 ####  🛠️ IDE 🛠️
-<img src = "https://img.shields.io/badge/VSC-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/> <img src = "https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Intellij IDEA-black?style=or-the-badge&logo=Intellij IDEA&logoColor=white"/>
+<img src = "https://img.shields.io/badge/VSC-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/> <img src = "https://img.shields.io/badge/Eclipse-2C2255.svg?&style=flat&logo=Eclipse%20IDE&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Intellij IDEA-black?style=flatlogo=Intellij IDEA&logoColor=white"/>
 <br>
 
 #### ✔ Most Used Language ✔
