@@ -1,5 +1,5 @@
 <div align= " center ">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Dan_O/63f49e81-22fc-4435-9df7-486eb0aec296.png" /></a>
+
  ####   🔓️ Main Stacks 🔓️
 <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
@@ -17,6 +17,8 @@
 ####  🛠️ IDE 🛠️
 <img src = "https://img.shields.io/badge/VSC-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/> <img src = "https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Intellij IDEA-black?style=or-the-badge&logo=Intellij IDEA&logoColor=white"/>
+<br>
 
-
+#### ✔ WakaTime ✔
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Dan_O/e42cb8d8-c7dd-4b25-9281-68a5927e0f92.png" /></a>
 </div>
