@@ -1,5 +1,5 @@
 <div align= " center ">
- <h3>STACKS</h3>
+ <h2>STACKS</h2>
 
  ####   🔓️ Main Stacks 🔓️
 <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/> 
