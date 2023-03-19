@@ -21,5 +21,5 @@
 <br>
 
 #### ✔ Most Used Language ✔
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Ewha0176&layout=compact" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ewha0176&layout=compact" />
 </div>
