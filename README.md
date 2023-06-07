@@ -16,7 +16,7 @@
 <br>
 
 ####  🛠 IDE 🛠
-<img src = "https://img.shields.io/badge/VSC-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/> <img src = "https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/> 
+<img src = "https://img.shields.io/badge/VSC-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Intellij IDEA-black?style=for-the-badge&logo=Intellij IDEA&logoColor=white"/>
 <br>
 
