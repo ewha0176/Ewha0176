@@ -18,6 +18,6 @@
 <br>
 
 #### ✔ Most Used Language ✔
-<img src="https://github-readme-stats.vercel.app/api?username=ewha0176&count_private=true&show_icons=true&theme=dark"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ewha0176&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ewha0176&layout=compact"/><br>
+<img src="https://github-readme-stats.vercel.app/api?username=ewha0176&count_private=true&show_icons=true&theme=dark">
 </div>
